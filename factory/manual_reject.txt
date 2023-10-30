@@ -220,6 +220,10 @@ pglstatp-toutiao.com
 
 
 #我自己的规则
+
+#2023-10-30日添加
+api-access.pangolin-sdk-toutiao1.com
+
 10148.engine.mobileapptracking.com
 10896.engine.mobileapptracking.com
 1170.api.swrve.com
