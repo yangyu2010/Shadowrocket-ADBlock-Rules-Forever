@@ -1,5 +1,23 @@
 # 手工定义的 Proxy 列表
 
+# 2025-10-20 日更新 
+s3-alpha-sig.figma.com
+www.figma.com
+static.figma.com
+jk.zy.dev
+figma.com
+chat.zy.dev
+git.zy.dev
+zy.dev
+laimi.io
+deepl.com
+cursor.com
+chatbot.com.cn
+notion.so
+notion.com
+
+
+
 theinitium.com
 
 youtu.be
